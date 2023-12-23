@@ -2,7 +2,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=MK32A&theme=onedark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MK32Aa&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MK32A&show_icons=true&theme=dracula" />
 </a>
 
 
