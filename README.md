@@ -7,7 +7,7 @@
     </a>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=MK32A&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=MK32A&theme=onedark" />
 </a>
 
 
