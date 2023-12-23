@@ -1,6 +1,7 @@
-<p align="left">
-    <img   src="https://github-readme-stats.vercel.app/api?username=MK32A&show_icons=true&theme=cobalt" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK32A&layout=compact&show_icons=true&theme=cobalt" />
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=MK32A&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK32A&count_private=true&show_icons=true&show_icons=true&theme=cobalt" />
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-profile-trophy.vercel.app/?username=MK32A&theme=onedark" />
