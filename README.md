@@ -6,8 +6,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MK32A&theme=cobalt&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=MK32A&theme=cobalt)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=MK32A&theme=onedark&column=8)
 
 
 
