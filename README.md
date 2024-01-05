@@ -12,22 +12,6 @@
 
 
 
-<p align="left">
-  <a href="https://github.com/Keichan15">
-    <img height="20" src="https://komarev.com/ghpvc/?username=MK32A" />
-  </a>
-  <a href="https://github.com/Keichan15">
-    <img height="20" src="https://img.shields.io/github/followers/MK32A?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/MK32A/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/MK32A/contributions.svg" />
-  </a>
-</p>
-
-
 
 
 
